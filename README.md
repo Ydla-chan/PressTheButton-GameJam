@@ -11,6 +11,11 @@ Languages :
 Platforms : Window Only 
 Tool and Technologies : Unity 
 
+Member Of Developer Team : 
+1. Wandi as Game designer
+2. Muhammad Ilham W as Artist 2d / 3d
+3. Aldy Jhonatana Hutasoit as Programmer
+
 Installation Instructions
   1. git clone This project
   2. Unzip it
